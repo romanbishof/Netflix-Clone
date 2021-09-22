@@ -39,7 +39,6 @@ function Featured({type}) {
                 Optio numquam quod nihil est neque laborum vel distinctio earum animi, 
                 rem provident hic suscipit excepturi dicta repudiandae voluptates ab 
                 molestiae adipisci.
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, architecto! Sequi corporis, ducimus odit, ullam voluptatibus libero dicta minus odio numquam, eligendi alias voluptas sint repellendus vel blanditiis pariatur possimus?
                 </span>
                 <div className="buttons">
                     <button className="play">
